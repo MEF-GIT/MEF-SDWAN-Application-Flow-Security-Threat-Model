@@ -2392,7 +2392,7 @@
               </a:anyType>
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.UDP</TypeId>
-            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">425</HandleX>
+            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">426</HandleX>
             <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">160</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">East</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">West</PortTarget>
@@ -2743,7 +2743,7 @@
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.HTTPS</TypeId>
             <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">1012</HandleX>
-            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">28</HandleY>
+            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">27</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">East</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">NorthWest</PortTarget>
             <SourceGuid xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">6007576a-c822-4957-9c05-be80ea878221</SourceGuid>
@@ -3268,7 +3268,7 @@
               </a:anyType>
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.HTTPS</TypeId>
-            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">778</HandleX>
+            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">777</HandleX>
             <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">162</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">South</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">East</PortTarget>
@@ -3792,8 +3792,8 @@
               </a:anyType>
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.HTTPS</TypeId>
-            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">640</HandleX>
-            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">139</HandleY>
+            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">643</HandleX>
+            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">136</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">North</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">West</PortTarget>
             <SourceGuid xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</SourceGuid>
@@ -4140,7 +4140,7 @@
               </a:anyType>
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.Binary</TypeId>
-            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">476</HandleX>
+            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">477</HandleX>
             <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">127</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">East</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">West</PortTarget>
@@ -4665,7 +4665,7 @@
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.Binary</TypeId>
             <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">661</HandleX>
-            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">62</HandleY>
+            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">61</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">West</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">East</PortTarget>
             <SourceGuid xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">6007576a-c822-4957-9c05-be80ea878221</SourceGuid>
@@ -4839,7 +4839,7 @@
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.Binary</TypeId>
             <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">539</HandleX>
-            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">164</HandleY>
+            <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">163</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">North</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">South</PortTarget>
             <SourceGuid xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</SourceGuid>
@@ -5400,7 +5400,7 @@
               </a:anyType>
             </Properties>
             <TypeId xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">SE.DF.TMCore.UDP</TypeId>
-            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">442</HandleX>
+            <HandleX xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">443</HandleX>
             <HandleY xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">222</HandleY>
             <PortSource xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">East</PortSource>
             <PortTarget xmlns="http://schemas.datacontract.org/2004/07/ThreatModeling.Model.Abstracts">West</PortTarget>
@@ -5487,7 +5487,7 @@
         <b:Id>133</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:f1e90fd6-a9ae-43cc-b628-1915046fc011:ee07826a-2547-426a-a00e-e26343942682</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:17:02.5709268+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:44:17.9384836+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -5508,7 +5508,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6027,7 +6027,7 @@
         <b:Id>209</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:40.4370825+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:21:14.9109569+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6048,7 +6048,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6081,7 +6081,7 @@
         <b:Id>208</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:48.7896359+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:21:08.2071319+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6102,7 +6102,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6135,7 +6135,7 @@
         <b:Id>207</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:51.9729452+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:21:00.6708879+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6156,7 +6156,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6189,7 +6189,7 @@
         <b:Id>182</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:38ea5b3b-3838-4717-a2b7-70c56975763b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:25:49.6807853+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:40:48.1081018+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6210,7 +6210,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R29/R30</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6243,7 +6243,7 @@
         <b:Id>14</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:16:57.9009071+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:29:24.7736529+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6264,7 +6264,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6297,7 +6297,7 @@
         <b:Id>15</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:10:47.2955071+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:29:50.8543493+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6318,7 +6318,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6351,7 +6351,7 @@
         <b:Id>16</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:11:20.0223249+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:29:57.4453274+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6372,7 +6372,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6567,7 +6567,7 @@
         <b:Id>147</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:417c598b-8c4d-4ec3-aae1-8226d6602a80:df2f822c-343e-46bc-8a11-934e300e7df4</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:03:16.8498196+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:01:12.5389448+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6588,7 +6588,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6600,7 +6600,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>df2f822c-343e-46bc-8a11-934e300e7df4</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6621,7 +6621,7 @@
         <b:Id>41</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:fffa01cc-fb24-4b4f-be67-352069b198ca:60a5e8d8-50b9-4a09-9baa-39f36961516a</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:08.4001912+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:59:13.9466566+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6642,7 +6642,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6654,7 +6654,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>60a5e8d8-50b9-4a09-9baa-39f36961516a</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6675,7 +6675,7 @@
         <b:Id>40</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:fffa01cc-fb24-4b4f-be67-352069b198ca:60a5e8d8-50b9-4a09-9baa-39f36961516a</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:04.5935573+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:59:03.0662066+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6696,7 +6696,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6708,7 +6708,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>60a5e8d8-50b9-4a09-9baa-39f36961516a</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6729,7 +6729,7 @@
         <b:Id>39</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:fffa01cc-fb24-4b4f-be67-352069b198ca:60a5e8d8-50b9-4a09-9baa-39f36961516a</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:56:52.7451122+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:58:52.898804+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6750,7 +6750,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6762,7 +6762,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>60a5e8d8-50b9-4a09-9baa-39f36961516a</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6783,7 +6783,7 @@
         <b:Id>83</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:db5db34e-9c1f-4914-928d-c420f18ba7c9:ee07826a-2547-426a-a00e-e26343942682</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:40:39.9281762+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:57:06.1696802+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6804,7 +6804,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R21/R22/R23/R24/R25</a:Value>
+            <a:Value>Out of scope. implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6816,7 +6816,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>Mitigated</b:State>
+        <b:State>NotApplicable</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ee07826a-2547-426a-a00e-e26343942682</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6837,7 +6837,7 @@
         <b:Id>82</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:db5db34e-9c1f-4914-928d-c420f18ba7c9:ee07826a-2547-426a-a00e-e26343942682</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:34:02.6443359+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:56:59.1700941+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6858,7 +6858,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14/R29/R30</a:Value>
+            <a:Value>Out of scope. implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6870,7 +6870,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>Mitigated</b:State>
+        <b:State>NotApplicable</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ee07826a-2547-426a-a00e-e26343942682</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6945,7 +6945,7 @@
         <b:Id>80</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:abc57413-b42c-4392-b0da-f645b427d023:6007576a-c822-4957-9c05-be80ea878221</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T14:00:03.3991696+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:01:37.995138+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -6966,7 +6966,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -6978,7 +6978,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>6007576a-c822-4957-9c05-be80ea878221</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -6999,7 +6999,7 @@
         <b:Id>79</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:abc57413-b42c-4392-b0da-f645b427d023:6007576a-c822-4957-9c05-be80ea878221</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:57:16.8751381+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:01:31.0599436+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -7020,7 +7020,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -7032,7 +7032,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>6007576a-c822-4957-9c05-be80ea878221</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -7701,7 +7701,7 @@
         <b:Id>179</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:38ea5b3b-3838-4717-a2b7-70c56975763b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T09:36:39.6699581+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:33:42.1009781+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -7722,7 +7722,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>7.6</a:Value>
+            <a:Value>Out of scope, implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -7755,7 +7755,7 @@
         <b:Id>178</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:38ea5b3b-3838-4717-a2b7-70c56975763b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:01:59.9429303+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:03:17.1320376+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -7776,7 +7776,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by D1</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -7788,7 +7788,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -7809,7 +7809,7 @@
         <b:Id>177</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:38ea5b3b-3838-4717-a2b7-70c56975763b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T09:36:30.1993719+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:33:35.8053592+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -7830,7 +7830,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>7.6</a:Value>
+            <a:Value>Out of scope, implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -7863,7 +7863,7 @@
         <b:Id>52</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:24.0679439+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:38.3476578+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -7884,7 +7884,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by D1</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -7896,7 +7896,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -7972,7 +7972,7 @@
         <b:Id>54</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:05:07.0784314+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:00.3076797+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -7993,7 +7993,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8005,7 +8005,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8026,7 +8026,7 @@
         <b:Id>55</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T12:22:27.222827+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:40:06.8847377+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8047,7 +8047,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R29/R30</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8080,7 +8080,7 @@
         <b:Id>56</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:90a1e15e-a5d4-497f-b1c0-53ae1ec07f6b:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:05:01.9735225+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:08.1729742+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8101,7 +8101,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8113,7 +8113,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8134,7 +8134,7 @@
         <b:Id>146</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:417c598b-8c4d-4ec3-aae1-8226d6602a80:df2f822c-343e-46bc-8a11-934e300e7df4</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:03:25.2369271+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:01:06.0830056+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8155,7 +8155,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8167,7 +8167,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>df2f822c-343e-46bc-8a11-934e300e7df4</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8188,7 +8188,7 @@
         <b:Id>145</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:417c598b-8c4d-4ec3-aae1-8226d6602a80:df2f822c-343e-46bc-8a11-934e300e7df4</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:57:38.3554816+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:00:59.035335+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8209,7 +8209,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8221,7 +8221,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>df2f822c-343e-46bc-8a11-934e300e7df4</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8242,7 +8242,7 @@
         <b:Id>59</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:8f276654-964b-474a-92cc-6127337e95f5:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:04:58.6566132+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:53.5711411+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8263,7 +8263,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by D1</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8275,7 +8275,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8296,7 +8296,7 @@
         <b:Id>60</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:8f276654-964b-474a-92cc-6127337e95f5:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:04:49.5692145+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:14.9431419+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8317,7 +8317,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8329,7 +8329,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8350,7 +8350,7 @@
         <b:Id>61</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:8f276654-964b-474a-92cc-6127337e95f5:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:04:46.3289104+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:20.6773989+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8371,7 +8371,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8383,7 +8383,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8404,7 +8404,7 @@
         <b:Id>62</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:8f276654-964b-474a-92cc-6127337e95f5:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:24:37.3061303+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:39:47.9401707+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8425,7 +8425,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R29/R30</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8458,7 +8458,7 @@
         <b:Id>63</b:Id>
         <b:InteractionKey>243089d0-c9a4-457d-8857-38f2bc77253f:8f276654-964b-474a-92cc-6127337e95f5:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:04:42.5688084+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:02:29.7817671+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8479,7 +8479,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8491,7 +8491,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>243089d0-c9a4-457d-8857-38f2bc77253f</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8512,7 +8512,7 @@
         <b:Id>64</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:7b59e756-1996-4660-ab84-31da0ee7999a:3482846b-eab0-4d0b-91fb-03c56aa3a764</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:53:22.104085+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:31:38.0584022+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8533,7 +8533,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8566,7 +8566,7 @@
         <b:Id>65</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:7b59e756-1996-4660-ab84-31da0ee7999a:3482846b-eab0-4d0b-91fb-03c56aa3a764</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:33:52.7036171+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:31:49.9432651+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8587,7 +8587,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14/R29/R30</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8620,7 +8620,7 @@
         <b:Id>66</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:7b59e756-1996-4660-ab84-31da0ee7999a:3482846b-eab0-4d0b-91fb-03c56aa3a764</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:39:16.5592061+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:32:29.8789697+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8641,7 +8641,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R21/R22/R23/R24/R25</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37/R39/R40/R41/R42/R43/R44/R45/D2/D3/R46/R47</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8674,7 +8674,7 @@
         <b:Id>67</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:7b59e756-1996-4660-ab84-31da0ee7999a:3482846b-eab0-4d0b-91fb-03c56aa3a764</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:04:39.5377522+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:56:18.4821993+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8782,7 +8782,7 @@
         <b:Id>92</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:759d2698-36dc-443a-be6a-182d4f309524:caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T14:00:25.7940486+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:00:08.3394254+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8803,7 +8803,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8815,7 +8815,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -8836,7 +8836,7 @@
         <b:Id>91</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:759d2698-36dc-443a-be6a-182d4f309524:caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:57:25.7154428+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:59:25.6606095+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -8857,7 +8857,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -8869,7 +8869,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -9376,7 +9376,7 @@
         <b:Id>168</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:21defcd8-94fa-4f80-863f-7da0ca7c75e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:25:53.8843315+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:41:16.2038022+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9397,7 +9397,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R29/R30</a:Value>
+            <a:Value>Covered by R15/R16/R17</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9484,7 +9484,7 @@
         <b:Id>129</b:Id>
         <b:InteractionKey>60a5e8d8-50b9-4a09-9baa-39f36961516a:8c6a43b0-829b-49c3-96d5-f852bb7e10af:caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T12:30:28.9607446+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:59:05.3120659+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9505,7 +9505,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9592,7 +9592,7 @@
         <b:Id>165</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:21defcd8-94fa-4f80-863f-7da0ca7c75e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T09:35:45.9296041+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:33:23.4410184+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9613,7 +9613,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>7.6</a:Value>
+            <a:Value>Out of scope, implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9700,7 +9700,7 @@
         <b:Id>163</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:21defcd8-94fa-4f80-863f-7da0ca7c75e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:02:53.8424641+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:03:02.1637513+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9721,7 +9721,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Covered by D1</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9733,7 +9733,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>0f09fe25-0aec-4eb0-9751-0879cd014751</b:SourceGuid>
-        <b:State>NotApplicable</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -9754,7 +9754,7 @@
         <b:Id>110</b:Id>
         <b:InteractionKey>60a5e8d8-50b9-4a09-9baa-39f36961516a:8c6a43b0-829b-49c3-96d5-f852bb7e10af:caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T14:00:29.8164796+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:00:16.8187111+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9775,7 +9775,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9787,7 +9787,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>60a5e8d8-50b9-4a09-9baa-39f36961516a</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -9808,7 +9808,7 @@
         <b:Id>206</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:41:40.9193446+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:56:31.393017+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9829,7 +9829,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R21/R22/R23/R24/R25</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9841,7 +9841,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>Mitigated</b:State>
+        <b:State>NotApplicable</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>51f0db5a-e030-48c3-834e-b90903f986b5</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -9916,7 +9916,7 @@
         <b:Id>204</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:56.4209343+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:20:33.6026406+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9937,7 +9937,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -9970,7 +9970,7 @@
         <b:Id>203</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:00:59.9755766+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:20:27.2954449+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -9991,7 +9991,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10024,7 +10024,7 @@
         <b:Id>202</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:0c858a1e-2ed9-4363-9446-1681e8dc229c:51f0db5a-e030-48c3-834e-b90903f986b5</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:01:03.3921485+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:20:20.2069098+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10045,7 +10045,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10132,7 +10132,7 @@
         <b:Id>162</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:21defcd8-94fa-4f80-863f-7da0ca7c75e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T09:35:54.780379+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:33:13.6905215+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10153,7 +10153,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>7.6</a:Value>
+            <a:Value>Out of scope, implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10186,7 +10186,7 @@
         <b:Id>130</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:759d2698-36dc-443a-be6a-182d4f309524:caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T12:27:57.7838928+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T19:50:03.996335+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10207,7 +10207,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10240,7 +10240,7 @@
         <b:Id>134</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:f1e90fd6-a9ae-43cc-b628-1915046fc011:ee07826a-2547-426a-a00e-e26343942682</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:34:59.6443014+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:44:31.6039012+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10261,7 +10261,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R7/R8/R11/R12/R13/R14/R29/R30</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10294,7 +10294,7 @@
         <b:Id>135</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:f1e90fd6-a9ae-43cc-b628-1915046fc011:ee07826a-2547-426a-a00e-e26343942682</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:39:23.3834945+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:44:41.8094997+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10315,7 +10315,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R21/R22/R23/R24/R25</a:Value>
+            <a:Value>Covered by R34/R35/R36/R37</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10456,7 +10456,7 @@
         <b:Id>140</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:378dcc73-ce5e-44a0-be51-6c084780cb80:3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:59:58.1426234+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:00:28.0268238+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10477,7 +10477,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10489,7 +10489,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -10510,7 +10510,7 @@
         <b:Id>141</b:Id>
         <b:InteractionKey>6007576a-c822-4957-9c05-be80ea878221:378dcc73-ce5e-44a0-be51-6c084780cb80:3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T14:00:16.5277706+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:08:35.2627876+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10531,7 +10531,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10543,7 +10543,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>6007576a-c822-4957-9c05-be80ea878221</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -10564,7 +10564,7 @@
         <b:Id>143</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:f53593e1-4564-4a65-aefb-5f255f7b2125:3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:59:52.6744373+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:00:34.1949045+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10585,7 +10585,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10597,7 +10597,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -10618,7 +10618,7 @@
         <b:Id>144</b:Id>
         <b:InteractionKey>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f:f53593e1-4564-4a65-aefb-5f255f7b2125:3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T14:00:21.7191878+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T21:00:52.2990708+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10639,7 +10639,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Covered by R38</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10651,7 +10651,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>Mitigated</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>3fc16e0a-28da-43cc-9d76-410b5d156dbb</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -10780,7 +10780,7 @@
         <b:Id>150</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:2e0ec700-bf44-4009-95e6-98d6c5b060e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T12:47:41.5991935+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:14:23.8160154+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10801,7 +10801,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R30</a:Value>
+            <a:Value>Covered by D1</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -10942,7 +10942,7 @@
         <b:Id>153</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:2e0ec700-bf44-4009-95e6-98d6c5b060e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:03:12.9641505+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:25:15.6342404+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -10963,7 +10963,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -11212,7 +11212,7 @@
         <b:Id>158</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:2e0ec700-bf44-4009-95e6-98d6c5b060e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:03:01.6479596+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:25:23.5033246+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -11233,7 +11233,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -11266,7 +11266,7 @@
         <b:Id>159</b:Id>
         <b:InteractionKey>0f09fe25-0aec-4eb0-9751-0879cd014751:2e0ec700-bf44-4009-95e6-98d6c5b060e9:ecdc80e8-05d6-4686-82df-7b3b39ee1a0f</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-29T16:03:06.5184602+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:26:12.805732+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -11287,7 +11287,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>Out of scope, implementation specific</a:Value>
+            <a:Value>Out of scope: "Non-HTTPS/TLS traffic is not deemed to be within the scope of inspection, except with respect to the DNS hostnames, URLs, IP addresses, port numbers and malware scanning that are used to access it."</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -11482,7 +11482,7 @@
         <b:Id>200</b:Id>
         <b:InteractionKey>281bdfc9-d5e2-442e-9d9f-e732cd847377:84d51386-65f5-41be-9b18-6622b11f724c:6007576a-c822-4957-9c05-be80ea878221</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T14:00:09.4340139+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:58:25.106594+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -11503,7 +11503,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Out of scope, implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -11515,7 +11515,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>281bdfc9-d5e2-442e-9d9f-e732cd847377</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>NotApplicable</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>6007576a-c822-4957-9c05-be80ea878221</b:TargetGuid>
         <b:Title i:nil="true"/>
@@ -11536,7 +11536,7 @@
         <b:Id>199</b:Id>
         <b:InteractionKey>281bdfc9-d5e2-442e-9d9f-e732cd847377:84d51386-65f5-41be-9b18-6622b11f724c:6007576a-c822-4957-9c05-be80ea878221</b:InteractionKey>
         <b:InteractionString i:nil="true"/>
-        <b:ModifiedAt>2020-07-17T13:57:00.8943807+01:00</b:ModifiedAt>
+        <b:ModifiedAt>2021-06-22T20:58:18.3947869+01:00</b:ModifiedAt>
         <b:Priority>High</b:Priority>
         <b:Properties>
           <a:KeyValueOfstringstring>
@@ -11557,7 +11557,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>StateInformation</a:Key>
-            <a:Value>R9/R10</a:Value>
+            <a:Value>Out of scope, implementation specific</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
@@ -11569,7 +11569,7 @@
           </a:KeyValueOfstringstring>
         </b:Properties>
         <b:SourceGuid>281bdfc9-d5e2-442e-9d9f-e732cd847377</b:SourceGuid>
-        <b:State>NeedsInvestigation</b:State>
+        <b:State>NotApplicable</b:State>
         <b:StateInformation i:nil="true"/>
         <b:TargetGuid>6007576a-c822-4957-9c05-be80ea878221</b:TargetGuid>
         <b:Title i:nil="true"/>
