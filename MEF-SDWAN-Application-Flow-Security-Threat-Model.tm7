@@ -1235,12 +1235,12 @@
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:BooleanDisplayAttribute">
                 <b:DisplayName>Out Of Scope</b:DisplayName>
                 <b:Name>71f3d9aa-b8ef-4e54-8126-607a1d903103</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">false</b:Value>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">true</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Reason For Out Of Scope</b:DisplayName>
                 <b:Name>752473b6-52d4-4776-9a24-202153f7d579</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string"/>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string">Out of scope, implementation specific</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:HeaderDisplayAttribute">
                 <b:DisplayName>Configurable Attributes</b:DisplayName>
@@ -2120,7 +2120,7 @@
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Name</b:DisplayName>
                 <b:Name/>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string">3rd Paty DNS Trust Boundary</b:Value>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string">3rd Party DNS Trust Boundary</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Dataflow Order</b:DisplayName>
@@ -3478,12 +3478,12 @@
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:BooleanDisplayAttribute">
                 <b:DisplayName>Out Of Scope</b:DisplayName>
                 <b:Name>71f3d9aa-b8ef-4e54-8126-607a1d903103</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">false</b:Value>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">true</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Reason For Out Of Scope</b:DisplayName>
                 <b:Name>752473b6-52d4-4776-9a24-202153f7d579</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string"/>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string">Out of scope, implementation specific</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:HeaderDisplayAttribute">
                 <b:DisplayName>Predefined Static Attributes</b:DisplayName>
@@ -4176,12 +4176,12 @@
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:BooleanDisplayAttribute">
                 <b:DisplayName>Out Of Scope</b:DisplayName>
                 <b:Name>71f3d9aa-b8ef-4e54-8126-607a1d903103</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">false</b:Value>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">true</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Reason For Out Of Scope</b:DisplayName>
                 <b:Name>752473b6-52d4-4776-9a24-202153f7d579</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string"/>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string">Out of scope, implementation specific</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:HeaderDisplayAttribute">
                 <b:DisplayName>Configurable Attributes</b:DisplayName>
@@ -4874,12 +4874,12 @@
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:BooleanDisplayAttribute">
                 <b:DisplayName>Out Of Scope</b:DisplayName>
                 <b:Name>71f3d9aa-b8ef-4e54-8126-607a1d903103</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">false</b:Value>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">true</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Reason For Out Of Scope</b:DisplayName>
                 <b:Name>752473b6-52d4-4776-9a24-202153f7d579</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string"/>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:string">Out of scope, implementation specific</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:HeaderDisplayAttribute">
                 <b:DisplayName>Configurable Attributes</b:DisplayName>
@@ -5048,7 +5048,7 @@
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:BooleanDisplayAttribute">
                 <b:DisplayName>Out Of Scope</b:DisplayName>
                 <b:Name>71f3d9aa-b8ef-4e54-8126-607a1d903103</b:Name>
-                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">true</b:Value>
+                <b:Value xmlns:c="http://www.w3.org/2001/XMLSchema" i:type="c:boolean">false</b:Value>
               </a:anyType>
               <a:anyType xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase" i:type="b:StringDisplayAttribute">
                 <b:DisplayName>Reason For Out Of Scope</b:DisplayName>
@@ -5944,7 +5944,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -5998,7 +5998,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -6052,7 +6052,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -6106,7 +6106,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -6160,7 +6160,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -6808,7 +6808,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>HTTP</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -6862,7 +6862,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>HTTP</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -6916,7 +6916,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>HTTP</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -8915,7 +8915,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>HTTP</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -8969,7 +8969,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>HTTP</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -9833,7 +9833,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -9887,7 +9887,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -9941,7 +9941,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -9995,7 +9995,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -10049,7 +10049,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -10103,7 +10103,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Other protocols</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -11507,7 +11507,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Signature updates</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -11561,7 +11561,7 @@
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>InteractionString</a:Key>
-            <a:Value>Signature updates</a:Value>
+            <a:Value>Deleted</a:Value>
           </a:KeyValueOfstringstring>
           <a:KeyValueOfstringstring>
             <a:Key>Priority</a:Key>
@@ -11574,6 +11574,276 @@
         <b:TargetGuid>6007576a-c822-4957-9c05-be80ea878221</b:TargetGuid>
         <b:Title i:nil="true"/>
         <b:TypeId>S7</b:TypeId>
+        <b:Upgraded>false</b:Upgraded>
+        <b:UserThreatCategory i:nil="true"/>
+        <b:UserThreatDescription i:nil="true"/>
+        <b:UserThreatShortDescription i:nil="true"/>
+        <b:Wide>false</b:Wide>
+      </a:Value>
+    </a:KeyValueOfstringThreatpc_P0_PhOB>
+    <a:KeyValueOfstringThreatpc_P0_PhOB>
+      <a:Key>S7caba5bf8-c3c8-450e-8c0f-5cfffe74fa221816b309-38fa-4c9e-b587-60abebf53331a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</a:Key>
+      <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase">
+        <b:ChangedBy>CISCO\twadhwab</b:ChangedBy>
+        <b:DrawingSurfaceGuid>6499ee5c-7b60-4ff3-9eb5-81e6e46f812a</b:DrawingSurfaceGuid>
+        <b:FlowGuid>1816b309-38fa-4c9e-b587-60abebf53331</b:FlowGuid>
+        <b:Id>114</b:Id>
+        <b:InteractionKey>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22:1816b309-38fa-4c9e-b587-60abebf53331:a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:InteractionKey>
+        <b:InteractionString i:nil="true"/>
+        <b:ModifiedAt>2021-07-15T02:18:37.4167786+01:00</b:ModifiedAt>
+        <b:Priority>High</b:Priority>
+        <b:Properties>
+          <a:KeyValueOfstringstring>
+            <a:Key>Title</a:Key>
+            <a:Value>Spoofing of Source Data Store DNS server</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatCategory</a:Key>
+            <a:Value>Spoofing</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatShortDescription</a:Key>
+            <a:Value>Spoofing is when a process or entity is something other than its claimed identity. Examples include substituting a process, a file, website or a network address.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatDescription</a:Key>
+            <a:Value>DNS server may be spoofed by an attacker and this may lead to incorrect data delivered to DNS server. Consider using a standard authentication mechanism to identify the source data store.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>StateInformation</a:Key>
+            <a:Value>Out of scope, implementation specific</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>InteractionString</a:Key>
+            <a:Value>DNS</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>Priority</a:Key>
+            <a:Value>High</a:Value>
+          </a:KeyValueOfstringstring>
+        </b:Properties>
+        <b:SourceGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:SourceGuid>
+        <b:State>NotApplicable</b:State>
+        <b:StateInformation i:nil="true"/>
+        <b:TargetGuid>a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:TargetGuid>
+        <b:Title i:nil="true"/>
+        <b:TypeId>S7</b:TypeId>
+        <b:Upgraded>false</b:Upgraded>
+        <b:UserThreatCategory i:nil="true"/>
+        <b:UserThreatDescription i:nil="true"/>
+        <b:UserThreatShortDescription i:nil="true"/>
+        <b:Wide>false</b:Wide>
+      </a:Value>
+    </a:KeyValueOfstringThreatpc_P0_PhOB>
+    <a:KeyValueOfstringThreatpc_P0_PhOB>
+      <a:Key>S7.1caba5bf8-c3c8-450e-8c0f-5cfffe74fa221816b309-38fa-4c9e-b587-60abebf53331a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</a:Key>
+      <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase">
+        <b:ChangedBy>CISCO\twadhwab</b:ChangedBy>
+        <b:DrawingSurfaceGuid>6499ee5c-7b60-4ff3-9eb5-81e6e46f812a</b:DrawingSurfaceGuid>
+        <b:FlowGuid>1816b309-38fa-4c9e-b587-60abebf53331</b:FlowGuid>
+        <b:Id>115</b:Id>
+        <b:InteractionKey>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22:1816b309-38fa-4c9e-b587-60abebf53331:a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:InteractionKey>
+        <b:InteractionString i:nil="true"/>
+        <b:ModifiedAt>2021-07-15T02:20:45.7205987+01:00</b:ModifiedAt>
+        <b:Priority>High</b:Priority>
+        <b:Properties>
+          <a:KeyValueOfstringstring>
+            <a:Key>Title</a:Key>
+            <a:Value>Spoofing of Destination Data Store DNS server</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatCategory</a:Key>
+            <a:Value>Spoofing</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatShortDescription</a:Key>
+            <a:Value>Spoofing is when a process or entity is something other than its claimed identity. Examples include substituting a process, a file, website or a network address.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatDescription</a:Key>
+            <a:Value>DNS server may be spoofed by an attacker and this may lead to data being written to the attacker's target instead of DNS server. Consider using a standard authentication mechanism to identify the destination data store.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>StateInformation</a:Key>
+            <a:Value>Covered by R39</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>InteractionString</a:Key>
+            <a:Value>DNS</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>Priority</a:Key>
+            <a:Value>High</a:Value>
+          </a:KeyValueOfstringstring>
+        </b:Properties>
+        <b:SourceGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:SourceGuid>
+        <b:State>Mitigated</b:State>
+        <b:StateInformation i:nil="true"/>
+        <b:TargetGuid>a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:TargetGuid>
+        <b:Title i:nil="true"/>
+        <b:TypeId>S7.1</b:TypeId>
+        <b:Upgraded>false</b:Upgraded>
+        <b:UserThreatCategory i:nil="true"/>
+        <b:UserThreatDescription i:nil="true"/>
+        <b:UserThreatShortDescription i:nil="true"/>
+        <b:Wide>false</b:Wide>
+      </a:Value>
+    </a:KeyValueOfstringThreatpc_P0_PhOB>
+    <a:KeyValueOfstringThreatpc_P0_PhOB>
+      <a:Key>R8caba5bf8-c3c8-450e-8c0f-5cfffe74fa221816b309-38fa-4c9e-b587-60abebf53331a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</a:Key>
+      <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase">
+        <b:ChangedBy>CISCO\twadhwab</b:ChangedBy>
+        <b:DrawingSurfaceGuid>6499ee5c-7b60-4ff3-9eb5-81e6e46f812a</b:DrawingSurfaceGuid>
+        <b:FlowGuid>1816b309-38fa-4c9e-b587-60abebf53331</b:FlowGuid>
+        <b:Id>116</b:Id>
+        <b:InteractionKey>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22:1816b309-38fa-4c9e-b587-60abebf53331:a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:InteractionKey>
+        <b:InteractionString i:nil="true"/>
+        <b:ModifiedAt>2021-07-15T02:18:49.3572755+01:00</b:ModifiedAt>
+        <b:Priority>High</b:Priority>
+        <b:Properties>
+          <a:KeyValueOfstringstring>
+            <a:Key>Title</a:Key>
+            <a:Value>Data Store Denies DNS server Potentially Writing Data</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatCategory</a:Key>
+            <a:Value>Repudiation</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatShortDescription</a:Key>
+            <a:Value>Repudiation threats involve an adversary denying that something happened.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatDescription</a:Key>
+            <a:Value>DNS server claims that it did not write data received from an entity on the other side of the trust boundary. Consider using logging or auditing to record the source, time, and summary of the received data.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>StateInformation</a:Key>
+            <a:Value>Out of scope, implementation specific</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>InteractionString</a:Key>
+            <a:Value>DNS</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>Priority</a:Key>
+            <a:Value>High</a:Value>
+          </a:KeyValueOfstringstring>
+        </b:Properties>
+        <b:SourceGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:SourceGuid>
+        <b:State>NotApplicable</b:State>
+        <b:StateInformation i:nil="true"/>
+        <b:TargetGuid>a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:TargetGuid>
+        <b:Title i:nil="true"/>
+        <b:TypeId>R8</b:TypeId>
+        <b:Upgraded>false</b:Upgraded>
+        <b:UserThreatCategory i:nil="true"/>
+        <b:UserThreatDescription i:nil="true"/>
+        <b:UserThreatShortDescription i:nil="true"/>
+        <b:Wide>false</b:Wide>
+      </a:Value>
+    </a:KeyValueOfstringThreatpc_P0_PhOB>
+    <a:KeyValueOfstringThreatpc_P0_PhOB>
+      <a:Key>D4caba5bf8-c3c8-450e-8c0f-5cfffe74fa221816b309-38fa-4c9e-b587-60abebf53331a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</a:Key>
+      <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase">
+        <b:ChangedBy>CISCO\twadhwab</b:ChangedBy>
+        <b:DrawingSurfaceGuid>6499ee5c-7b60-4ff3-9eb5-81e6e46f812a</b:DrawingSurfaceGuid>
+        <b:FlowGuid>1816b309-38fa-4c9e-b587-60abebf53331</b:FlowGuid>
+        <b:Id>117</b:Id>
+        <b:InteractionKey>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22:1816b309-38fa-4c9e-b587-60abebf53331:a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:InteractionKey>
+        <b:InteractionString i:nil="true"/>
+        <b:ModifiedAt>2021-07-15T02:19:06.4675488+01:00</b:ModifiedAt>
+        <b:Priority>High</b:Priority>
+        <b:Properties>
+          <a:KeyValueOfstringstring>
+            <a:Key>Title</a:Key>
+            <a:Value>Data Flow DNS Is Potentially Interrupted</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatCategory</a:Key>
+            <a:Value>Denial Of Service</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatShortDescription</a:Key>
+            <a:Value>Denial of Service happens when the process or a datastore is not able to service incoming requests or perform up to spec.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatDescription</a:Key>
+            <a:Value>An external agent interrupts data flowing across a trust boundary in either direction.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>StateInformation</a:Key>
+            <a:Value>Out of scope, implementation specific</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>InteractionString</a:Key>
+            <a:Value>DNS</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>Priority</a:Key>
+            <a:Value>High</a:Value>
+          </a:KeyValueOfstringstring>
+        </b:Properties>
+        <b:SourceGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:SourceGuid>
+        <b:State>NotApplicable</b:State>
+        <b:StateInformation i:nil="true"/>
+        <b:TargetGuid>a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:TargetGuid>
+        <b:Title i:nil="true"/>
+        <b:TypeId>D4</b:TypeId>
+        <b:Upgraded>false</b:Upgraded>
+        <b:UserThreatCategory i:nil="true"/>
+        <b:UserThreatDescription i:nil="true"/>
+        <b:UserThreatShortDescription i:nil="true"/>
+        <b:Wide>false</b:Wide>
+      </a:Value>
+    </a:KeyValueOfstringThreatpc_P0_PhOB>
+    <a:KeyValueOfstringThreatpc_P0_PhOB>
+      <a:Key>D5caba5bf8-c3c8-450e-8c0f-5cfffe74fa221816b309-38fa-4c9e-b587-60abebf53331a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</a:Key>
+      <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/ThreatModeling.KnowledgeBase">
+        <b:ChangedBy>CISCO\twadhwab</b:ChangedBy>
+        <b:DrawingSurfaceGuid>6499ee5c-7b60-4ff3-9eb5-81e6e46f812a</b:DrawingSurfaceGuid>
+        <b:FlowGuid>1816b309-38fa-4c9e-b587-60abebf53331</b:FlowGuid>
+        <b:Id>118</b:Id>
+        <b:InteractionKey>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22:1816b309-38fa-4c9e-b587-60abebf53331:a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:InteractionKey>
+        <b:InteractionString i:nil="true"/>
+        <b:ModifiedAt>2021-07-15T02:19:16.6503158+01:00</b:ModifiedAt>
+        <b:Priority>High</b:Priority>
+        <b:Properties>
+          <a:KeyValueOfstringstring>
+            <a:Key>Title</a:Key>
+            <a:Value>Data Store Inaccessible</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatCategory</a:Key>
+            <a:Value>Denial Of Service</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatShortDescription</a:Key>
+            <a:Value>Denial of Service happens when the process or a datastore is not able to service incoming requests or perform up to spec.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>UserThreatDescription</a:Key>
+            <a:Value>An external agent prevents access to a data store on the other side of the trust boundary.</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>StateInformation</a:Key>
+            <a:Value>Out of scope, implementation specific</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>InteractionString</a:Key>
+            <a:Value>DNS</a:Value>
+          </a:KeyValueOfstringstring>
+          <a:KeyValueOfstringstring>
+            <a:Key>Priority</a:Key>
+            <a:Value>High</a:Value>
+          </a:KeyValueOfstringstring>
+        </b:Properties>
+        <b:SourceGuid>caba5bf8-c3c8-450e-8c0f-5cfffe74fa22</b:SourceGuid>
+        <b:State>NotApplicable</b:State>
+        <b:StateInformation i:nil="true"/>
+        <b:TargetGuid>a9fa4c00-9bab-48ef-bc70-4e8fc404ef3a</b:TargetGuid>
+        <b:Title i:nil="true"/>
+        <b:TypeId>D5</b:TypeId>
         <b:Upgraded>false</b:Upgraded>
         <b:UserThreatCategory i:nil="true"/>
         <b:UserThreatDescription i:nil="true"/>
